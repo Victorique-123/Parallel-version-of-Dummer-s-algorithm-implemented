@@ -1,2 +1,3 @@
 # Parallel-version-of-Dumo-s-algorithm-implemented
 ...
+##To test the GPU version of the Dummer algorithm please run the dec_gpu.py)
